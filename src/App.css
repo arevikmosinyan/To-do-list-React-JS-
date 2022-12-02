@@ -1,0 +1,41 @@
+
+
+
+ body {
+  background-image: url("https://wallpaperforu.com/wp-content/uploads/2020/03/sharon-mccutcheon-NkQD-RHhbvY-unsplash-scaled.jpg");
+  background-size: 1800px 1000px;
+  text-align: center;
+}
+#container {
+  background-color: rgb(98, 112, 133);
+  
+  margin: 0px 100px;
+  
+}
+h2 {
+  color: white;
+  font-style: italic;
+}
+.head {
+  justify-content: center;
+  display: flex;
+  
+}
+ul {
+  list-style: none;
+  
+ 
+}
+li {
+  list-style-type: none;
+  
+}
+li:hover {
+  background-color: rgb(96, 111, 133) !important;
+}
+ul > li:nth-child(odd){
+  background-color: rgb(154, 126, 141);
+}
+
+
+
